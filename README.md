@@ -3,7 +3,7 @@ This describes what DevOps Is
 
 The culture of collabration between Development and Operation. The tools that Implement the DevOps, and the relation between the DevOps & Cloud.
 
-# The Goles of the DevOps 
+# The Goals of the DevOps 
 
 The goal of the development team is to Speed up the process of developing code for the End customer. 
 
